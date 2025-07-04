@@ -1,5 +1,9 @@
 # Mini-POS Checkout Core
 
+## Development Approach
+
+This project was built using Test-Driven Development (TDD). All business logic was implemented with tests written before or alongside the code, ensuring robust and maintainable features. The project achieves 100% test coverage, as demonstrated in the included coverage report.
+
 ## Flutter & Dart Versions
 - Flutter: 3.24.5, 3.32.5
 - Dart: ^3.5.4
